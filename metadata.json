@@ -1,0 +1,9 @@
+
+{
+  "name": "SerenityMind - AI Mental Wellness Companion",
+  "description": "A comprehensive mental health application featuring AI-powered support, mood tracking, guided breathing, and reflective journaling to promote emotional well-being.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
